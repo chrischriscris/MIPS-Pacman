@@ -14,6 +14,8 @@ A Pac-Man based game made in MIPS Assembly language that runs perfectly on a mod
 + Assemble and run, and click on the text rectangle on the Keyboard MMIO Simulator.
 + Enjoy :).
 
+![Screenshot of the Bitmap Display running Pac-Man MIPS implementation](PacManCaptura.jpg?raw=true "Bitmap Display screenshot running Pac-Man")
+
 ## Game configuration
 
 You can configure some parameters in `Main.s` to make the game work as you want, you can find the on the first line of the `.data` segment:
