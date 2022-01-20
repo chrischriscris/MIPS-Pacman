@@ -1,4 +1,4 @@
-# MIPS-Pacman
+# MIPS-Pacman 
 
 A Pac-Man based game made in MIPS Assembly language that runs perfectly on a modified version of MARS.
 
@@ -17,7 +17,7 @@ A Pac-Man based game made in MIPS Assembly language that runs perfectly on a mod
 
 ![Screenshot of the Bitmap Display running Pac-Man MIPS implementation](PacManCaptura.jpg?raw=true "Bitmap Display screenshot running Pac-Man")
 
-## Game configuration
+## Game configuration 🔧
 
 You can configure some parameters in `Main.s` to make the game work as you want, you can find the on the first line of the `.data` segment:
 
@@ -27,7 +27,7 @@ You can configure some parameters in `Main.s` to make the game work as you want,
 + ***D***: Current direction that Pac-Man is moving to. Modify it to modify the direction that the Pac-Man will move as the game begins, it can be either 'W', 'A', 'S' or 'D'.
 + ***V***: Number of lives. Pretty self explanatory.
 
-## Game commands
+## Game commands 👾
 
 + ***To move the main character***:
   - Up: W/w.
@@ -38,9 +38,9 @@ You can configure some parameters in `Main.s` to make the game work as you want,
   - Play/pause: Spacebar.
   - Quit: Enter.
 
-## Rules
+## Rules 📏
 
-Avoid to be eaten and eat every food on the display. You will lose a live every time a ghost eats you or when you eat all the food (sorry :( ). The game is over when you lose all the lives.
+Avoid to be eaten and eat every food on the display. You will lose a live every time a ghost eats you or when you eat all the food (sorry 🙁 ). The game is over when you lose all the lives.
 
 The ghosts take a random direction on every intersection.
 
@@ -48,4 +48,4 @@ When you finish (either by quitting or losing all the lives) a message will be d
 
 Enjoy our beautiful implementation! Feel free to contact us if you wanna know something about it or if you see some sort of bug.
 
-Made with <3 by [chrischriscris](https://github.com/chrischriscris/).
+Made with ❤ by [chrischriscris](https://github.com/chrischriscris/).
