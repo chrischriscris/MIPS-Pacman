@@ -48,4 +48,6 @@ When you finish (either by quitting or losing all the lives) a message will be d
 
 Enjoy our beautiful implementation! Feel free to contact us if you wanna know something about it or if you see some sort of bug.
 
+---
+
 Made with ❤ by [chrischriscris](https://github.com/chrischriscris/).
