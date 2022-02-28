@@ -50,4 +50,4 @@ Enjoy our beautiful implementation! Feel free to contact us if you wanna know so
 
 ---
 
-Made with ❤ by [chrischriscris](https://github.com/chrischriscris/).
+Made with ❤ by [chrischriscris](https://github.com/chrischriscris/) and [fungikami](https://github.com/fungikami/).
