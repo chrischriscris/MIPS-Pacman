@@ -1,6 +1,6 @@
 # MIPS-Pacman 
 
-A Pac-Man based game made in MIPS Assembly language that runs perfectly on a modified version of MARS.
+A Pac-Man based game made in MIPS Assembly language that runs perfectly on a modified version of MARS. (In fact, the best implementation of Pacman in MIPS all over Github)
 
 ## How to get it to work
 
